@@ -1,0 +1,11 @@
+name = "绿宝石物质兑换 (Green Gem Exchange)"
+description = "在完整的远古科技塔处，用绿宝石等材料兑换铥矿、噩梦燃料与拆解魔杖。\n配方：铥矿x5 + 噩梦燃料x7 + 绿宝石x2 + 活木x1\n产出：铥矿x12 + 噩梦燃料x8 + 20%耐久的拆解魔杖"
+author = "jh"
+version = "1.0.0"
+api_version = 10
+dst_compatible = true
+dont_starve_compatible = false
+reign_of_giants_compatible = false
+shipwrecked_compatible = false
+all_clients_require_mod = true
+client_only_mod = false
