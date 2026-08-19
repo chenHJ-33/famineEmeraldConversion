@@ -46,3 +46,4 @@
 - 版本：`1.0.0`，DST 专属（`dst_compatible = true`）
 - `api_version = 10`
 - `all_clients_require_mod = true`（所有客户端都需开启该 Mod）
+- 更新日期：2026-08-19
